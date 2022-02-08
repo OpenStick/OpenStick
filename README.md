@@ -9,6 +9,7 @@ msm8916 4g网卡的逆向工程和主线移植
 * 完成了所有功能在主线中的驱动，并运行postmarketOS。
 * 在Debian中驱动了这个网卡所有的外设。
 * 完成了modem在HandsomeMod中的驱动（这个包可能会鸽~）
+* 支持在windows平台下的烧写
 
 
 
