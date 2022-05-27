@@ -33,3 +33,7 @@ msm8916 4g网卡的逆向工程和主线移植
 ​     wiki正在建设之中，欢迎各位大佬投稿或者star！！
 
   [WIKI地址](https://www.kancloud.cn/handsomehacker/openstick/content)
+
+## 相关链接
+
+  [HandsomeMod构建系统](https://github.com/HandsomeMod/HandsomeMod)
